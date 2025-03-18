@@ -1,2 +1,2 @@
 # sample
-for training purpose
+for training purpose and nothing
