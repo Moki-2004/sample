@@ -1,1 +1,1 @@
-hi guys this is a sample created in git repository
+hi guys this is a sample created in git 
