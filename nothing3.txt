@@ -1,1 +1,1 @@
-I learnt how to push and pull file between local and git repository
+I learnt how to push and pull file between local and git repositories
